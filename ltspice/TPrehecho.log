@@ -1,0 +1,22 @@
+Circuit: * Z:\home\franco\Link to GitProjects\FIUBA-ADC\TPrehecho.asc
+
+WARNING: Specified period is not longer than the sum of Trise, Tfall, and Ton for v3.  Increasing period to 1.002e-012
+Per .tran options, skipping operating point for transient analysis.
+
+Date: Mon Jun 10 12:49:57 2019
+Total elapsed time: 0.085 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2250
+traniter = 2250
+tranpoints = 1123
+accept = 1097
+rejected = 26
+matrix size = 53
+fillins = 77
+solver = Normal
+Matrix Compiler1: 6.29 KB object code size  1.8/1.1/[0.8]
+Matrix Compiler2: 5.79 KB object code size  1.0/1.1/[0.8]
+
